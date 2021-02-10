@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Riku Playlist IPTV
 
-You can use the [editor on GitHub](https://github.com/achmadfauzihamibowo/riku/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Disini saya hanya backup playlist dari yang sudah ada, semua file ini miliki pembuat playlist sebelumnya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Untuk menonton silakan gunakan Perfect Player**
 
-### Markdown
+INSTALL "PERFECT PLAYER"
+TERUS IKUTI LANGKAH2 INI https://youtu.be/1hC8FGTGxk8
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+URL PLAYLIST : http://codaytv.eu/S.m3u8
+EPG PLAYLIST : http://codaytv.eu/coday-epg.xml
 
-```markdown
-Syntax highlighted code block
+Atau gunakan Playlist Alternative dari Riku
 
-# Header 1
-## Header 2
-### Header 3
+[GRATISMKCTV]
+URL PLAYLIST : http://gg.gg/o990q
+[SHAREEXTGROUP]
+URL PLAYLIST : http://gg.gg/o990r
+[KSA]
+URL PLAYLIST : http://gg.gg/o990x
+[viruscorona19]
+URL PLAYLIST : http://gg.gg/o9cdb
 
-- Bulleted
-- List
+TAMBAHAN!
+PILIH SETTINGS SEPERTI INI ATAU PILIH **AUTO**
+![Image of PERFECTPLAYER](https://www.britagan.com/wp-content/uploads/2021/02/setting-m3u8-coday-perfect-player-2.jpg)
 
-1. Numbered
-2. List
+CARA MASUKKAN
+![Image of PERFECTPLAYER](https://www.britagan.com/wp-content/uploads/2021/02/setting-m3u8-coday-perfect-player-2.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/achmadfauzihamibowo/riku/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# SEWAKTU-WAKTU MUNGKIN PLAYLIST MATI, INI CUMA BACKUP LINK PRIBADI SAJA! #
