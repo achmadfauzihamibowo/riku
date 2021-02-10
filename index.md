@@ -12,20 +12,17 @@ EPG PLAYLIST : http://codaytv.eu/coday-epg.xml
 
 Atau gunakan Playlist Alternative dari Riku
 
-[GRATISMKCTV]
+- [GRATISMKCTV]
 URL PLAYLIST : http://gg.gg/o990q
-[SHAREEXTGROUP]
+
+- [SHAREEXTGROUP]
 URL PLAYLIST : http://gg.gg/o990r
-[KSA]
+
+- [KSA]
 URL PLAYLIST : http://gg.gg/o990x
-[viruscorona19]
+
+- [viruscorona19]
 URL PLAYLIST : http://gg.gg/o9cdb
 
-TAMBAHAN!
-PILIH SETTINGS SEPERTI INI ATAU PILIH **AUTO**
-![Image of PERFECTPLAYER](https://www.britagan.com/wp-content/uploads/2021/02/setting-m3u8-coday-perfect-player-2.jpg)
-
-CARA MASUKKAN
-![Image of PERFECTPLAYER](https://www.britagan.com/wp-content/uploads/2021/02/setting-m3u8-coday-perfect-player-2.jpg)
 
 # SEWAKTU-WAKTU MUNGKIN PLAYLIST MATI, INI CUMA BACKUP LINK PRIBADI SAJA! #
