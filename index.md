@@ -5,10 +5,11 @@
 **Untuk menonton silakan gunakan Perfect Player**
 
 INSTALL "PERFECT PLAYER"
-TERUS IKUTI LANGKAH2 INI https://youtu.be/1hC8FGTGxk8
+TERUS IKUTI LANGKAH2 INI
+[Cara Install Perfect Player](https://youtu.be/1hC8FGTGxk8)
 
-URL PLAYLIST : http://codaytv.eu/S.m3u8
-EPG PLAYLIST : http://codaytv.eu/coday-epg.xml
+* URL PLAYLIST : http://codaytv.eu/S.m3u8
+* EPG PLAYLIST : http://codaytv.eu/coday-epg.xml
 
 Atau gunakan Playlist Alternative dari Riku
 
